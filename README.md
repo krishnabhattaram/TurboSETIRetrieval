@@ -35,7 +35,7 @@ run are included in further detail in the relevant sections below.
 Insertions were done in the file /mnt_blpd7/datax/hard_linked_in_dl/gbl/spliced_blc0001020304050607_guppi_57557_47744_HIP3092_0005.gpuspec.0000.h5
 located on blpc0.
 ## Results
-####Base Signal Search:
+#### Base Signal Search:
 To ensure that results are interpreted with correct context, information
 about the signals present in the original file is necessary. TurboSETI is therefore
 run on the entirety of the frequency range without signal insertion. Frame size here is 
@@ -48,7 +48,7 @@ The effects of this RFI on signal retrieval parameters will be quantized in this
 
 ![](images/WaterfallTruncated.png)
 
-###Single Insertion:
+### Single Insertion:
 #### Insertion Frequency vs Percent Recovered
 Signal insertion parameters are at drift: 0 Hz/s, SNR: 40, width: 40 Hz
 at the specified frequency interval of 102400 frequency channels per insertion,
@@ -64,7 +64,7 @@ frequency range of 1550 MHz - 1600 MHz, where it was observed that RFI was
 notably high. Broadband RFI might be the cause for the loss of the signal, 
 as frame noise might be confounding turboSETI retrieval.
 
-####Inserted Frequency vs Recovered Frequency
+#### Inserted Frequency vs Recovered Frequency
 For identical signal insertion parameters as above, the recovered frequency
 of turboSETI vs inserted frequency for the signals that were retrieved are as 
 follows:
@@ -146,7 +146,7 @@ signal is around 5% of the frame size, which means that undefined behavior might
 Note that signal drops in the noisy range, and later spurious detection are again artifacts of the insertion scheme, and not due to the 
 width.
 
-###Double Insertion:
+### Double Insertion:
 
 In the following sections, two signals are inserted per frame. One signal is the "primary," with
 the higher SNR value, while the "secondary" has a lower SNR value. In environments where narrow-band, 
