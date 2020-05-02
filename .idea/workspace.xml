@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b380312-9044-4d3f-a64d-7e3294c73b57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataFiles/DriftRunsLBand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFiles/FreqRuns&amp;BaseLBand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFiles/SNRRunsLBand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFiles/TwoSignalsRandomizedSecondary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFiles/TwoSignalsSNRRatio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFiles/WidthRunsLBand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalInsertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/BaseRun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CapturedDrift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CapturedFrequency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CapturedWidth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DriftRecovered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RecoveredFrequency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RecoveredSeparation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SNRCaptured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SNRRatioCaptured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SNRRecovered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WaterfallTruncated.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hknweb" beforeDir="false" afterPath="$PROJECT_DIR$/../hknweb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw8/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw8/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/capers/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/capers/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab14/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab14/UnionFind.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b6UMTUmt2f7pm4Qliaq0mssek8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b380312-9044-4d3f-a64d-7e3294c73b57" name="Default Changelist" comment="" />
+      <created>1587951988339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587951988339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Project_Structure" timestamp="1588384691540">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1588384691540" />
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588376594086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1588376594086" />
+  </component>
+</project>
