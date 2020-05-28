@@ -102,7 +102,7 @@ spurious noise detections and drops, the plot appears as expected. Something int
 note though is that the drift at which signal detection starts is a little shifted from the 
 inserted range, meaning turboSETI drift calculation might differ from setigen's (perhaps
 using left/right boundary convention for the signal, which should yield with this
-signal thickness and frame size a difference of about 0.05 Hz, which is a little smaller
+signal thickness and frame size a difference of about 0.05 Hz/s, which is a little smaller
 than the visible error).
 
 ![](images/CapturedDrift.png)
@@ -166,7 +166,7 @@ average percent recovered as a function of separation is shown below.
 
 ![](images/RecoveredSeparation.png)
 
-The plot is normalized with two, since two signals are inserted; note the range on the y-axis 0f
+The plot is normalized with two, since two signals are inserted; note the range on the y-axis
 between 0.5 and 1. Considering the range of drift values of the inserted signals, the maximum frequency that a single signal
 can cross over the time span of the frame is 1.460 kHz. Thus, the separation of around 2 kHz that the plot
 shows that turboSETI requires is logical, as a signal separation of less has a high probability of signal
